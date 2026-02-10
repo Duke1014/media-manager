@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Tests/MediaManager.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/duke/Development/code/practice/media-manager/backend/MediaManager.API/MediaManager.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.API/MediaManager.API.csproj",
+        "projectName": "MediaManager.API",
+        "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.API/MediaManager.API.csproj",
+        "packagesPath": "/home/duke/.nuget/packages/",
+        "outputPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/duke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj": {
+                "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj"
+              },
+              "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/MediaManager.Infrastructure.csproj": {
+                "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/MediaManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj",
+        "projectName": "MediaManager.Core",
+        "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj",
+        "packagesPath": "/home/duke/.nuget/packages/",
+        "outputPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/duke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/MediaManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/MediaManager.Infrastructure.csproj",
+        "projectName": "MediaManager.Infrastructure",
+        "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/MediaManager.Infrastructure.csproj",
+        "packagesPath": "/home/duke/.nuget/packages/",
+        "outputPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/duke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj": {
+                "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Tests/MediaManager.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Tests/MediaManager.Tests.csproj",
+        "projectName": "MediaManager.Tests",
+        "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Tests/MediaManager.Tests.csproj",
+        "packagesPath": "/home/duke/.nuget/packages/",
+        "outputPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/duke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/duke/Development/code/practice/media-manager/backend/MediaManager.API/MediaManager.API.csproj": {
+                "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.API/MediaManager.API.csproj"
+              },
+              "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj": {
+                "projectPath": "/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/MediaManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

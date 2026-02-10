@@ -1,0 +1,16 @@
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/bin/Debug/net8.0/MediaManager.Infrastructure.deps.json
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/bin/Debug/net8.0/MediaManager.Infrastructure.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/bin/Debug/net8.0/MediaManager.Infrastructure.pdb
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/bin/Debug/net8.0/MediaManager.Core.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/bin/Debug/net8.0/MediaManager.Core.pdb
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.csproj.AssemblyReference.cache
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.AssemblyInfoInputs.cache
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.AssemblyInfo.cs
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.csproj.CoreCompileInputs.cache
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.sourcelink.json
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaMan.E1690D80.Up2Date
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/refint/MediaManager.Infrastructure.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/MediaManager.Infrastructure.pdb
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Infrastructure/obj/Debug/net8.0/ref/MediaManager.Infrastructure.dll

@@ -1,0 +1,12 @@
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/bin/Debug/net8.0/MediaManager.Core.deps.json
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/bin/Debug/net8.0/MediaManager.Core.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/bin/Debug/net8.0/MediaManager.Core.pdb
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.AssemblyInfoInputs.cache
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.AssemblyInfo.cs
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.csproj.CoreCompileInputs.cache
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.sourcelink.json
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/refint/MediaManager.Core.dll
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/MediaManager.Core.pdb
+/home/duke/Development/code/practice/media-manager/backend/MediaManager.Core/obj/Debug/net8.0/ref/MediaManager.Core.dll

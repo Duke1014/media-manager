@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e3TQkfIHpe4N6AL/LVEjTaVjXcFO4Yhv5pCzfkW+PIM=",
+  "Source": "MediaManager.API",
+  "BasePath": "_content/MediaManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

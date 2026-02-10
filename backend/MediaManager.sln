@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManager.API", "MediaManager.API\MediaManager.API.csproj", "{7DC08F5B-E073-4D6C-81E2-5DCBABC6877C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManager.Core", "MediaManager.Core\MediaManager.Core.csproj", "{BDAA89F1-9431-4A72-9039-5D9F3265FB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManager.Infrastructure", "MediaManager.Infrastructure\MediaManager.Infrastructure.csproj", "{2ED1BB00-6B4A-4480-AB42-364BAB187FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManager.Tests", "MediaManager.Tests\MediaManager.Tests.csproj", "{C7D0E37B-ABA6-4551-AA4C-4A4EF8268742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC08F5B-E073-4D6C-81E2-5DCBABC6877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC08F5B-E073-4D6C-81E2-5DCBABC6877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC08F5B-E073-4D6C-81E2-5DCBABC6877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC08F5B-E073-4D6C-81E2-5DCBABC6877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDAA89F1-9431-4A72-9039-5D9F3265FB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAA89F1-9431-4A72-9039-5D9F3265FB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAA89F1-9431-4A72-9039-5D9F3265FB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAA89F1-9431-4A72-9039-5D9F3265FB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED1BB00-6B4A-4480-AB42-364BAB187FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED1BB00-6B4A-4480-AB42-364BAB187FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED1BB00-6B4A-4480-AB42-364BAB187FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED1BB00-6B4A-4480-AB42-364BAB187FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D0E37B-ABA6-4551-AA4C-4A4EF8268742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D0E37B-ABA6-4551-AA4C-4A4EF8268742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D0E37B-ABA6-4551-AA4C-4A4EF8268742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D0E37B-ABA6-4551-AA4C-4A4EF8268742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
