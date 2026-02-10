@@ -2,7 +2,7 @@ namespace MediaManager.Core.Enums;
 
 public enum MediaCategory
 {
-    VideoGame = 1,
+    Game = 1,
     Movie = 2,
     TVShow = 3,
     Music = 4,

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaManager.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdfa018fab4cfdb9f28d8e2c16c41dbd7e78671e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8291f2a75088676dd8fe1061d4a4fca090c7884")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaManager.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaManager.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
