@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/duke/Development/code/practice/media-manager/api/api.csproj": {}
+    "/home/dukeyboi/dev/media-manager/api/api.csproj": {}
   },
   "projects": {
-    "/home/duke/Development/code/practice/media-manager/api/api.csproj": {
+    "/home/dukeyboi/dev/media-manager/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/duke/Development/code/practice/media-manager/api/api.csproj",
+        "projectUniqueName": "/home/dukeyboi/dev/media-manager/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/home/duke/Development/code/practice/media-manager/api/api.csproj",
-        "packagesPath": "/home/duke/.nuget/packages/",
-        "outputPath": "/home/duke/Development/code/practice/media-manager/api/obj/",
+        "projectPath": "/home/dukeyboi/dev/media-manager/api/api.csproj",
+        "packagesPath": "/home/dukeyboi/.nuget/packages/",
+        "outputPath": "/home/dukeyboi/dev/media-manager/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/duke/.nuget/NuGet/NuGet.Config"
+          "/home/dukeyboi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,15 +38,40 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -63,6 +89,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -71,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
